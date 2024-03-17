@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { getCatsInfo } from '../../utils/productsApi/getCatsInfo';
+import { getCatsInfo } from '../../utils/Api/getCatsInfo';
 import './CatsInfo.css';
 
 function CatsInfo() {

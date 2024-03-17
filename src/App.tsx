@@ -10,7 +10,6 @@ function App() {
     <div className="app">
       <Header></Header>
       <div className='content'>
-        {/* <Products></Products> */}
         <CatsInfo></CatsInfo>
         <UserAge></UserAge>
       </div>
