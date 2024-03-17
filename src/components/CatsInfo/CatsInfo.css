@@ -1,0 +1,18 @@
+.cats-info{
+    display: flex;
+    gap:10px;
+    padding: 20px;
+}
+
+.cats-info_update-button{
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+}
+
+.cats-info_textfield{
+    margin: 0;
+    min-width: 50%;
+}

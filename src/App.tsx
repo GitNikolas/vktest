@@ -2,14 +2,17 @@ import React from 'react';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import './App.css';
-import Products from './components/Products/Products';
+import CatsInfo from './components/CatsInfo/CatsInfo';
+import UserAge from './components/UserAge/UserAge';
 
 function App() {
   return (
     <div className="app">
       <Header></Header>
       <div className='content'>
-        <Products></Products>
+        {/* <Products></Products> */}
+        <CatsInfo></CatsInfo>
+        <UserAge></UserAge>
       </div>
       <Footer></Footer>
     </div>

@@ -1,8 +1,8 @@
 {
-  "name": "vktest-market",
+  "name": "vktest",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://GitNikolas.github.io/vktest-market",
+  "homepage": "https://GitNikolas.github.io/vktest",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
